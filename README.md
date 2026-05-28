@@ -6,5 +6,8 @@
 
 ## 🎉 First Note (نخستین یادداشت)
 - [Day 1 — May 14, 2026](./Notes/2026-05-14.md) *The first note of this repository*:).
+---
 
+## 🎉 MonkeyMath (میمون-انگارش), a new free 2D game
+- [Day 2 — May 28, 2026](./Notes/2026-05-28.md) *New repository for the new MonkeyMath game* :).
 ---
