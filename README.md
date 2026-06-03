@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Bernoulli naive Bayes (بیز ساده‌نگر برنولی)
+- [Day 5 — June 04, 2026](./Notes/2026-06-04.md) *New upload in Machine Learning repository* :memo:.
+---
+
 ## 🎉 ImagePuzz (بَردک‌پنداره)
 - [Day 4 — June 01, 2026](./Notes/2026-06-01.md) *New modifications to the game ImagePuzz* :video_game:.
 ---
