@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Car-On-Highway and Bag of Words (خودرو_دربزرگراه و کیسه واژگان)
+- [Day 6 — June 06, 2026](./Notes/2026-06-06.md) *New version of the 2D car crash game Car-On-Highway, and Bag of Words (BoW) in Machine Learning* :video_game:, :memo:.
+---
+
 ## 🎉 Bernoulli naive Bayes (بیز ساده‌نگر برنولی)
 - [Day 5 — June 04, 2026](./Notes/2026-06-04.md) *New upload in Machine Learning repository* :memo:.
 ---
