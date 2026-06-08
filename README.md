@@ -4,8 +4,12 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Binomial and multinomial distributions (گسترشهای دونامی و چندنامی)
+- [Day 8 — June 09, 2026](./Notes/2026-06-09.md) *New post about binomial and multinomial distributions in Machine-Learning repository* :memo:.
+---
+
 ## 🎉 ClassicStickyNotes (یادداشتهای چسبی دیرپا)
-- [Day 7 — June 08, 2026](./Notes/2026-06-08.md) *New app for Windows 10 and over is made available, named ClassicStickyNotes*.
+- [Day 7 — June 08, 2026](./Notes/2026-06-08.md) *New app for Windows 10 and over is made available, named ClassicStickyNotes* :desktop_computer:.
 ---
 
 ## 🎉 Car-On-Highway and Bag of Words (خودرو_در_بزرگراه و کیسه واژگان)
