@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 ClassicStickyNotes (یادداشتهای چسبی دیرپا)
+- [Day 7 — June 08, 2026](./Notes/2026-06-08.md) *New app for Windows 10 and over is made available, named ClassicStickyNotes*.
+---
+
 ## 🎉 Car-On-Highway and Bag of Words (خودرو_در_بزرگراه و کیسه واژگان)
 - [Day 6 — June 06, 2026](./Notes/2026-06-06.md) *New version of the 2D car crash game Car-On-Highway, and Bag of Words (BoW) in Machine Learning* :video_game:, :memo:.
 ---
