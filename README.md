@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Ball-On-The-Ground (توپ_روی_زمین)
+- [Day 9 — June 11, 2026](./Notes/2026-06-11.md) *Some modifications to the 2D game BallOnTheGround* :video_game:.
+---
+
 ## 🎉 Binomial and multinomial distributions (گسترشهای دونامی و چندنامی)
 - [Day 8 — June 09, 2026](./Notes/2026-06-09.md) *New post about binomial and multinomial distributions in Machine-Learning repository* :memo:.
 ---
