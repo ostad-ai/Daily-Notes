@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 DesktopCountdown (پس‌شمار رومیزی)
+- [Day 10 — June 13, 2026](./Notes/2026-06-13.md) *new app, and new post on multinomial NB* :desktop_computer:, :video_game:.
+---
+
 ## 🎉 Ball-On-The-Ground (توپ_روی_زمین)
 - [Day 9 — June 11, 2026](./Notes/2026-06-11.md) *Some modifications to the 2D game BallOnTheGround* :video_game:.
 ---
