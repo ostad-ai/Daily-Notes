@@ -4,8 +4,12 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Categorical naive Bayes (بیز ساده‌نگر رَمَکی)
+- [Day 12 — June 20, 2026](./Notes/2026-06-20.md) *New post about categorical naive Bayes in Machine-Learning repository, a revisit* :memo:.
+---
+
 ## 🎉 DesktopDoodle (رهانگار رومیزی)
-- [Day 10 — June 18, 2026](./Notes/2026-06-18.md) *New doodling app is available now in its own repository* :desktop_computer:.
+- [Day 11 — June 18, 2026](./Notes/2026-06-18.md) *New doodling app is available now in its own repository* :desktop_computer:.
 ---
 
 ## 🎉 DesktopCountdown (پس‌شمار رومیزی)
