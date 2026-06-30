@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 DesktopVector (بردار رومیزی)
+- [Day 13 — July 01, 2026](./Notes/2026-07-01.md) *New vector editing app named DesktopVector* :desktop_computer:.
+---
+
 ## 🎉 Categorical naive Bayes (بیز ساده‌نگر رَمَکی)
 - [Day 12 — June 20, 2026](./Notes/2026-06-20.md) *New post about categorical naive Bayes in Machine-Learning repository, a revisit* :memo:.
 ---
