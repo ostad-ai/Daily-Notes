@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Gaussian naive Bayes (بیز ساده‌نگر گوسی)
+- [Day 14 — July 03, 2026](./Notes/2026-07-03.md) *New post in Machine-Learning repository about Gaussian naive Bayes* :memo:.
+---
+
 ## 🎉 DesktopVector (بردار رومیزی)
 - [Day 13 — July 01, 2026](./Notes/2026-07-01.md) *New vector editing app named DesktopVector* :desktop_computer:.
 ---
