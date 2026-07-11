@@ -4,6 +4,10 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Desktop Doodle, second version (رهانگار رومیزی، پچین دوم)
+- [Day 15 — July 11, 2026](./Notes/2026-07-11.md) *The second version of Desktop Doodle is available now with new features such as bucket to fill closed area, and color picker* :desktop_computer:.
+---
+
 ## 🎉 Gaussian naive Bayes (بیز ساده‌نگر گوسی)
 - [Day 14 — July 03, 2026](./Notes/2026-07-03.md) *New post in Machine-Learning repository about Gaussian naive Bayes* :memo:.
 ---
