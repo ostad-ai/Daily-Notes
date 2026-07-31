@@ -5,7 +5,7 @@
 - you can also tell me which **topics** you prefer.
 
 ## 🎉 MathBaaf, first release (انگارش‌باف، پچین نخست)
-- [Day 17 — Auguest 1, 2026](./Notes/2026-08-01.md) *The first release of MathBaaf, which is and equation editor, happens* :desktop_computer:.
+- [Day 17 — Auguest 1, 2026](./Notes/2026-08-01.md) *The first release of MathBaaf, which is an equation editor, happens* :desktop_computer:.
 ---
 
 ## 🎉 Desktop Doodle, third version version (رهانگار رومیزی، پچین سوم)
