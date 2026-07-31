@@ -4,6 +4,14 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 MathBaaf, first release (انگارش‌باف، پچین نخست)
+- [Day 17 — Auguest 1, 2026](./Notes/2026-08-01.md) *The first release of MathBaaf, which is and equation editor, happens* :desktop_computer:.
+---
+
+## 🎉 Desktop Doodle, third version version (رهانگار رومیزی، پچین سوم)
+- [Day 16 — July 31, 2026](./Notes/2026-07-31.md) *The third version of Desktop Doodle is available now with major changes such as layering, import, lots of new pens, and float select* :desktop_computer:.
+---
+
 ## 🎉 Desktop Doodle, second version (رهانگار رومیزی، پچین دوم)
 - [Day 15 — July 11, 2026](./Notes/2026-07-11.md) *The second version of Desktop Doodle is available now with new features such as bucket to fill closed area, and color picker* :desktop_computer:.
 ---
