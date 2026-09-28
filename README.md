@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Desktop Doodle, version 0.5a (رهانگار_رومیزی، پچین ششم)
+- [Day 21 — September 28, 2026](./Notes/2026-09-28.md) *The sixth version of Desktop Doodle is available now with shapes and filling methods* :desktop_computer:.
+
 ## 🎉 Image Brain, first release; File Processor, second version (مغز_پنداره و پردازنده_پرونده)
 - [Day 20 — September 27, 2026](./Notes/2026-09-27.md) *The first release of Image Brain, an app to search on images by asking and/or by images; the second version of FileProcessor* :desktop_computer:.
 
