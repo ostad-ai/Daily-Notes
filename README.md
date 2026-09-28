@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Image Brain, first release; File Processor, second version (مغز_پنداره و پردازنده_پرونده)
+- [Day 20 — September 28, 2026](./Notes/2026-09-28.md) *The first release of Image Brain, an app to search on images by asking and/or by images; the second version of FileProcessor* :desktop_computer:.
+
 ## 🎉 Graph Editor, second version; RaceTrack generator, second version; and Desktop Doodle, fifth version (رهانگار رومیزی، راسگاه‌ساز، و ویرایشگر گراش)
 - [Day 19 — September 10, 2026](./Notes/2026-09-10.md) *The second version of Graph Editor, the second version of Racetrack Generator, and fifth version of Desktop Doodle* :desktop_computer:.
 ---
