@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 Skeletal Animator, first release (جانبخش استخوانی، رهاسازی یکم)
+- [Day 22 — October 2, 2026](./Notes/2026-10-02.md) *The first release of the Skeletal Animator is published now. This free off-line app can be used for animation and game development.* :desktop_computer:.
+
 ## 🎉 Desktop Doodle, version 0.5a (رهانگار_رومیزی، پچین ششم)
 - [Day 21 — September 28, 2026](./Notes/2026-09-28.md) *The sixth version of Desktop Doodle is available now with shapes and filling methods* :desktop_computer:.
 
