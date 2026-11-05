@@ -4,7 +4,7 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
-## 🎉 First release of CodeBaaf, and new version of MonkeyMath (نخستین رهاسازی شناسه‌باف، و پجین نو میمون_انگارش)
+## 🎉 First release of CodeBaaf, and new version of MonkeyMath (نخستین رهاسازی شناسه‌باف، و پچین نو میمون_انگارش)
 [Day 24 — November 5, 2026](./Notes/2026-11-05.md) *The first release of the Python IDE CodeBaaf is out. Also, the new version of MonkeyMath game.* :desktop_computer:, :video_game:.
 
 ## 🎉 Desktop Doodle, version 0.6.1, Skeletal Animator, version 0.2.1 (رهانگار رومیزی و جانبخش استخوانی)
