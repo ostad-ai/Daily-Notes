@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 DocuBrain, first release (مغز_ دستک، رهاسازی یکم)
+[Day 25 — November 11, 2026](./Notes/2026-11-11.md) *The first release of the DocuBrain, your documents's brain is out.* :desktop_computer:
+
 ## 🎉 First release of CodeBaaf, and new version of MonkeyMath (نخستین رهاسازی شناسه‌باف، و پچین نو میمون_انگارش)
 [Day 24 — November 5, 2026](./Notes/2026-11-05.md) *The first release of the Python IDE CodeBaaf is out. Also, the new version of MonkeyMath game.* :desktop_computer:, :video_game:.
 
