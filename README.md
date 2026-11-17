@@ -4,7 +4,7 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
-## 🎉 New version of CodeBaaf, v0.2 (مغز_ دستک، رهاسازی یکم)
+## 🎉 New version of CodeBaaf, v0.2 (شناسه‌باف، پچین نو)
 [Day 26 — November 17, 2026](./Notes/2026-11-17.md) *The new version, v0.2, of CodeBaaf, the Python IDE is out.* :desktop_computer:
 
 ## 🎉 DocuBrain, first release (مغز_ دستک، رهاسازی یکم)
