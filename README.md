@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 New version of the game Car-On-Highway, v0.2 (خودرو_در_بزرگراه، پچین v0.2)
+[Day 26 — November 21, 2026](./Notes/2026-11-21.md) *The new version, v0.2, of Car-On-Highway, the free car crash game, is out.* :video_game:
+
 ## 🎉 New version of CodeBaaf, v0.2 (شناسه‌باف، پچین نو)
 [Day 26 — November 17, 2026](./Notes/2026-11-17.md) *The new version, v0.2, of CodeBaaf, the Python IDE is out.* :desktop_computer:
 
