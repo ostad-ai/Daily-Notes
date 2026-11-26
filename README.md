@@ -4,6 +4,9 @@
 - I would be happy to get **comments** and **feedbacks** on my notes and/or about my other repositories.
 - you can also tell me which **topics** you prefer.
 
+## 🎉 MonkeyMath, New version, v0.2 (میمون_انگارش، پچین نو)
+[Day 28 — November 26, 2026](./Notes/2026-11-26.md) *The new version, v0.2, of **MonkeyMath**, the free educational game about mathematics, is out.* :video_game:
+    
 ## 🎉 New version of the game Car-On-Highway, v0.2 (خودرو_در_بزرگراه، پچین v0.2)
 [Day 27 — November 21, 2026](./Notes/2026-11-21.md) *The new version, v0.2, of Car-On-Highway, the free car crash game, is out.* :video_game:
 
